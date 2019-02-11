@@ -1,6 +1,9 @@
 Abbess
 Abbot
 Admiral of the Fleet
+Adv
+Adv.
+Advocate
 Aesymnetes
 Agha
 Agonothetes
@@ -54,7 +57,6 @@ Brigadier
 Brigadier General
 Brigadier-General
 Brigadier-Général
-British
 Buddha
 Buddhist
 Cadet
@@ -151,9 +153,13 @@ English
 Ensign
 Ephor
 Epihipparch
+Esq
+Esq.
 Esquire
 Evangelist
 Exarch
+Excellence
+Excellency
 Faqih
 Fellow
 Fidalgo
@@ -166,7 +172,6 @@ Furén
 Fürst
 Fürstin
 Ganden Tripa
-General
 General
 General Brigadier
 General de Brigada
@@ -222,6 +227,11 @@ Hegumen
 Hegumenia
 Hekatontarchès
 Hellenotamiae
+Her Honor
+Her Honour
+Her Ladyship
+Her Majesty
+Her Royal Majesty
 Herald
 Herzog
 Hidalgo
@@ -233,7 +243,14 @@ High priestess
 Hindi
 Hipparchus
 His Eminence
+His Honor
+His Honour
+His Lordship
+His Majesty
+His Royal Majesty
 Hojatoleslam
+Hon
+Hon.
 Ilarchès
 Imam
 Imperator
@@ -251,6 +268,7 @@ Khan (title)|Khan
 Khawaja
 King
 King of Arms
+King's Counsel
 Kolakretai
 Kolonel
 La Defensa Nacional General de División General de Brigada
@@ -273,10 +291,12 @@ Lord Great Chamberlain
 Lord High Constable
 Lord High Constable of England
 Lord Privy Seal
+Lordship
 Lugal
 Luitenant
 Luitenant-Kolonel
 Madam
+Madam Ambassador
 Magister Militum
 Magister Officiorum
 Maha-kshtrapa
@@ -309,7 +329,10 @@ Metropolitan Bishop
 Ministro de Defensa Nacional
 Mirza
 Monsignor
+Mr. Ambassador
 Mullah
+My Lady
+My Lord
 Naib
 Nakharar
 National Security Advisor
@@ -361,6 +384,7 @@ Proxenos
 Prytaneis
 Pursuivant
 Queen
+Queen's Counsel
 Rabbi
 Raja
 Rajmata
@@ -441,6 +465,12 @@ Thai
 Thakore
 Thakur
 Thakurani
+The Crown
+The Hon'ble
+The Hon.
+The Honorable
+The Honourable
+The Right Honorable
 The Right Honourable
 Theorodokoi
 Theoroi
@@ -473,9 +503,13 @@ Xiongnu
 Xry Hbt
 Yisheng
 Yishi
+Your Honor
+Your Honour
+Your Ladyship
+Your Lordship
+Your Majesty
 Yuvraj
 Yuvrani
 Zamindar
 Zhuxi
 Zongshi
-Zoroastrian
