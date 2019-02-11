@@ -1,0 +1,38 @@
+Au.D
+AuD
+Bachelor of Dental Surgery
+Bachelor of Medicine
+Bachelor of Surgery
+BDS
+DDS
+DMD
+DO
+Doctor
+Doctor of Audiology
+Doctor of Dental Medicine
+Doctor of Dental Surgery
+Doctor of Medicine
+Doctor of Optometry
+Doctor of Osteopathic Medicine
+Doctor of Pharmacy
+Doctor of Philosophy
+Doctor of Psychology
+Doctor of Veterinary Medicine
+Dr
+Dr.
+DVM
+EdD
+MBBS
+MBChB
+MD
+MRCS
+OD
+Ph.D
+Pharm.D
+PharmD
+PhD
+Prof
+Prof.
+Professor
+Psy.D
+PsyD

@@ -9,7 +9,7 @@ let inp = d.getElementById('input-text-to-parse');
 let ipv = inp.value;
 
 // Extract unique words into a sorted array
-   // Remove punct. and leading/trailing whitespace
+   // Remove p'nct. and trailing   /   leading whitespaces
    ipv = ipv.replace(/[+,.?!";:/\\()\[\]\{\}]/gim, ' ').trim();
    // Break into array on whitespace (1+ length)
    ipv = ipv.split(/\s+/gim);
@@ -58,3 +58,32 @@ ${ipvDictionary}
 
 Lowercase Words
 ${ipvLower}`;
+
+
+/*
+var content = "McDonald's will not be carrying the McRib in Albuquerque this year!  WTF is wrong with you, MCD?  You're going to make me drive all the way to freaking Las Cruces for a McRib?  McDonald's had better be on Santa's naughty list this year.  That's all I can say.";
+
+getProperNouns(content);
+
+function getProperNouns(content) {
+    // Grab anything that looks like a proper noun
+    // Remove first two characters of every match
+    // Remove any items that contain a new line
+    // Remove any items that are contained in stopwords array
+    // Convert to Set (removes duplicates) and back to Array
+    // Sort alphabetically
+    const items = Array.from(
+        new Set(
+            (content.match(
+                // !! Adds 2 characters to start of matches for some reason
+                /(?:[^.\s!?])\s+((?:[A-Z][-A-Za-z']*(?: *[A-Z][-A-Za-z']*)*))|(?:[^.\s!?])\s+([A-Z][-A-Za-z']*)/gm
+            ) || [])
+            .map(item => item.substr(2))
+            .filter(item => !/\n/.test(item))
+            //.filter(item => stopwords.indexOf(item.toLowerCase()) == -1)
+        )
+    ).sort();
+
+    console.log(items);
+}*/
+ */
