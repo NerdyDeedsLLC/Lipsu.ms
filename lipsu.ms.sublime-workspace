@@ -1,0 +1,406 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"lo",
+				"log"
+			],
+			[
+				"ti",
+				"title"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"item",
+				"itemCount〔variable〕"
+			],
+			[
+				"no",
+				"nowrap"
+			],
+			[
+				"whi",
+				"white-space\tproperty"
+			],
+			[
+				"trasn",
+				"transform\tproperty"
+			],
+			[
+				"d",
+				"displayHours"
+			],
+			[
+				"di",
+				"displayMinutes"
+			],
+			[
+				"tra",
+				"transform\tproperty"
+			],
+			[
+				"claas",
+				"className〔variable〕"
+			],
+			[
+				"opTx",
+				"opTxtV〔variable〕"
+			],
+			[
+				"St",
+				"StorefrontSlideshow"
+			],
+			[
+				"S",
+				"StorefrontSlideshow"
+			],
+			[
+				"op",
+				"opDataPF"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": ".gitignore",
+			"settings":
+			{
+				"buffer_size": 914,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 1170,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"al",
+				"AlignTab: Live Preview Mode"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"disc",
+				"Package Control: Discover Packages"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"high",
+				"SublimeHighlight: copy to clipboard as RTF"
+			],
+			[
+				"repos",
+				"Package Control: Add Repository"
+			],
+			[
+				"instak",
+				"Package Control: Install Package"
+			],
+			[
+				"ali",
+				"AlignTab: Live Preview Mode"
+			],
+			[
+				"pretty",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"json",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"prett",
+				"Pretty JSON: Validate"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/jjurusz/Documents/words.txt",
+		"/Users/jjurusz/repo/projects/athena-ife/ife3/src/components/IptvContainer/index.js",
+		"/Users/jjurusz/repo/projects/athena-ife/ife3/src/assets/styles/index.scss",
+		"/Users/jjurusz/repo/projects/athena-ife/ife3/src/components/StorefrontSlideshow/index.js",
+		"/Users/jjurusz/repo/projects/athena-ife/ife3/node_modules/webapps-components-utilities/services/config/config.json",
+		"/Users/jjurusz/repo/portal/packages/portal-state-management/src/state/shared.js",
+		"/Users/jjurusz/repo/projects/themes/theme_jal/src/assets/json/config.json",
+		"/Users/jjurusz/repo/projects/athena-ife/ife3/theme/src/assets/json/config.json",
+		"/Users/jjurusz/repo/projects/athena-ife/ife3/node_modules/webapps-components-utilities/services/flightInfo/index.js",
+		"/Users/jjurusz/repo/projects/athena-ife/ife3/src/components/StorefrontSlideshow/CarouselSlideshow.scss",
+		"/Users/jjurusz/repo/projects/athena-ife/ife3/src/components/StorefrontSlideshow/CarouselTheme.scss",
+		"/Users/jjurusz/repo/projects/athena-ife/ife3/src/components/StorefrontSlideshow/CarouselBehaviors.scss",
+		"/Users/jjurusz/repo/projects/athena-ife/ife3/src/components/MediaTiles/index.js",
+		"/Users/jjurusz/.bash_profile",
+		"/Users/jjurusz/repo/projects/webapps.json",
+		"/Users/jjurusz/repo/projects/proxyservers.json",
+		"/Users/jjurusz/repo/projects/runapp.sh",
+		"/Users/jjurusz/Desktop/test.bak.json",
+		"/Users/jjurusz/repo/projects/athena-ife/ife3/src/components/Storefront/localhost%3a8080/slick.css",
+		"/Users/jjurusz/repo/projects/athena-ife/ife3/src/components/Storefront/unified-carousel-behaviors.scss",
+		"/Users/jjurusz/repo/projects/athena-ife/ife3/src/components/Storefront/unified-carousel-theme.scss",
+		"/Users/jjurusz/repo/projects/athena-ife/ife3/src/components/Storefront/localhost%3a8080/slick-theme.css",
+		"/Users/jjurusz/repo/projects/athena-ife/ife3/src/components/Storefront/index.html",
+		"/Users/jjurusz/repo/projects/athena-ife/ife3/src/pages/Storefront/index.js",
+		"/Users/jjurusz/.bashrc",
+		"/Users/jjurusz/repo/projects/athena-ife/ife3/package.json",
+		"/Users/jjurusz/supplant.sh",
+		"/Users/jjurusz/repo/projects/athena-ife/ife3/node_modules/webapps-components-utilities/services/catalog/buildCollection.js",
+		"/Users/jjurusz/repo/projects/athena-ife/ife3/public/index.html",
+		"/Users/jjurusz/repo/projects/themes/theme_jal/src/assets/styles/variables.scss",
+		"/Users/jjurusz/repo/projects/athena-ife/ife3/node_modules/webapps-components-utilities/services/catalog/index.js",
+		"/Users/jjurusz/repo/projects/themes/theme_jal/src/assets/styles/components/liveTVChannel.scss",
+		"/Users/jjurusz/Library/Application Support/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/Users/jjurusz/repo/projects/athena-ife/ife3/node_modules/webapps-components-utilities/services/catalog/polyfill.js",
+		"/Users/jjurusz/repo/projects/.npmrc",
+		"/Users/jjurusz/.bash_profile_bk",
+		"/Users/jjurusz/repo/athena.sublime-project",
+		"/Users/jjurusz/repo/projects/webapps.json_bk",
+		"/Users/jjurusz/test.sh",
+		"/Users/jjurusz/homebrew.sh",
+		"/Users/jjurusz/repo/projects/athena-ife/ife3/theme/src/assets/styles/components/appMissing.scss"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 102.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": ".gitignore",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 914,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								206,
+								206
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Git Formats/Git Ignore.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "package.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1170,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1170,
+								1170
+							]
+						],
+						"settings":
+						{
+							"auto_complete": true,
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 37.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "lipsu.ms.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"catalog/index",
+				"webapps-components-utilities/services/catalog/index.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 276.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

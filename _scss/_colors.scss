@@ -1,0 +1,24 @@
+/* _colors.scss - Loaded */
+// General Color Declarations
+$white     : #FFF;
+$lightgray : #CCC;
+$gray      : #888;
+$darkgray  : #333;
+$blue      : #1B92FC;
+$lightblue : #9BCFFC;
+$darkblue  : #0D5294;
+$black     : #000;
+
+// Parts of Speech Color Declarations
+$posNNbg   : #F7D4FF;               // Noun (background)
+$posNNfg   : darken(#F7D4FF, 75%);  // Noun (foreground)
+$posPNbg   : #FFB6B8;               // Proper Noun (background)
+$posPNfg   : darken(#FFB6B8, 75%);  // Proper Noun (foreground)
+$posADbg   : #FFD6AA;               // Adjective (background)
+$posADfg   : darken(#FFD6AA, 75%);  // Adjective (foreground)
+$posAVbg   : #FEFFBC;               // Adverb (background)
+$posAVfg   : darken(#FEFFBC, 75%);  // Adverb (foreground)
+$posVBbg   : #D4F8FF;               // Verb (background)
+$posVBfg   : darken(#D4F8FF, 75%);  // Verb (foreground)
+$posBG     : #DDD;                  // Parts of Speech Default (background)
+$posFG     : #888;                  // Parts of Speech Default (foreground)

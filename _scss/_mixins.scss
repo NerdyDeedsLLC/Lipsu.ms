@@ -1,0 +1,3 @@
+@mixin outlined($bdr-wt, $bdr-clr, $shadow-type: 'box') {
+    #{#{$shadow-type}-shadow}: #{$bdr-wt} #{$bdr-wt} #{$bdr-clr}, -#{$bdr-wt} #{$bdr-wt} #{$bdr-clr}, #{$bdr-wt} -#{$bdr-wt} #{$bdr-clr}, -#{$bdr-wt} -#{$bdr-wt} #{$bdr-clr}, 0 #{$bdr-wt} #{$bdr-clr}, 0 -#{$bdr-wt} #{$bdr-clr}, -#{$bdr-wt} 0 #{$bdr-clr}, #{$bdr-wt} 0 #{$bdr-clr};
+}
